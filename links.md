@@ -14,7 +14,7 @@
 | https://www.typeform.com/ | Create surveys |
 
 ## Content creation
-
+- #### Image and video 
 |Links| Description |
 |--|--|
 | https://www.canva.com/ | Online ad and image editor |
@@ -24,6 +24,16 @@
 |https://www.photopea.com/ | Advanced Online Image editor |
 | https://photomosh.com/ | Image filter generator online |
 
+ - #### Website building
+
+|Links| Description |
+|--|--|
+| https://material.io/ | Icons, components and design guidelines |
+| https://fonts.google.com/ | Online font library |
+| https://fontawesome.com/ | Icons and design content |
+| https://materializecss.com/ | Components, Forms, without code |
+| https://instacart.github.io/Snacks/ | Design system |
+|  |  |
 
 ## Development 
 Guides and tools, libraries and frameworks.
