@@ -1,7 +1,7 @@
 # Here is a list of useful tools if I need them in the future.
-
+<br>
 ## Marketing and statistics tools
-
+<br>
 
 | Links | Description |
 |--|--|
@@ -13,6 +13,7 @@
 | [Semrush](https://www.semrush.com/) | SEO, site audits |
 | [Pagespeed Insights](https://developers.google.com/speed/pagespeed/insights/) | Google tool for Pagespeed analysis and test on different devices. |
 | [Typeform](https://www.typeform.com/) | Create surveys |
+
 
 ## Content creation
 #### Image and video 
@@ -35,6 +36,6 @@
 | [Materialize](https://materializecss.com/) | Components, Forms, without code |
 | [Instacart](https://instacart.github.io/Snacks/) | Design system |
 |  |  |
-
+<br>
 ## Development 
 Guides and tools, libraries and frameworks.
