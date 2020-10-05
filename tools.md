@@ -36,7 +36,6 @@
 | [Fontawesome](https://fontawesome.com/) | Icons and design content |
 | [Materialize](https://materializecss.com/) | Components, Forms, without code |
 | [Instacart](https://instacart.github.io/Snacks/) | Design system |
-|  |  |
 
 ## Development 
 Guides and tools, libraries and frameworks.
