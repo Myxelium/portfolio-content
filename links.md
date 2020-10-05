@@ -14,7 +14,7 @@
 | https://www.typeform.com/ | Create surveys |
 
 ## Content creation
-- #### Image and video 
+#### Image and video 
 |Links| Description |
 |--|--|
 | https://www.canva.com/ | Online ad and image editor |
@@ -24,7 +24,7 @@
 |https://www.photopea.com/ | Advanced Online Image editor |
 | https://photomosh.com/ | Image filter generator online |
 
- - #### Website building
+ #### Website building
 
 |Links| Description |
 |--|--|
