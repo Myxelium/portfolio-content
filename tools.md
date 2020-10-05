@@ -1,4 +1,4 @@
-# Here is a list of useful tools if I need them in the future.
+This is a list of tools I find useful when working on my projects. 
 
 
 ## Marketing and statistics tools
