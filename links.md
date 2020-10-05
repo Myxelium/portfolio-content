@@ -10,6 +10,8 @@
 |https://analytics.google.com/analytics/web/|Google analytics, advanced website statistics|
 |https://www.facebook.com/business/help/952192354843755|Facebook and instagram ads|
 | https://www.semrush.com/ | SEO, site audits |
+| https://developers.google.com/speed/pagespeed/insights/ | Google tool for Pagespeed analysis and test on different devices. |
+
 ## Content creation
 
 |Links| Description |
