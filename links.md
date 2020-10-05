@@ -9,7 +9,7 @@
 |https://search.google.com/search-console|Google website statics|
 |https://analytics.google.com/analytics/web/|Google analytics, advanced website statistics|
 |https://www.facebook.com/business/help/952192354843755|Facebook and instagram ads|
-|  |  |
+| https://www.semrush.com/ | SEO, site audits |
 ## Content creation
 
 |Links| Description |
