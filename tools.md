@@ -41,4 +41,4 @@ This is a list of tools I find useful when working on my projects.
 
 |Links| Description |
 |--|--|
-|https://github.com/lesjames/history-api-demo| Modify url without reload|
+|[History API Doc](https://github.com/lesjames/history-api-demo)| Modify url without reload|
