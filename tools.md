@@ -46,3 +46,4 @@ List of content
 |Links| Description |
 |--|--|
 |[History API Doc](https://github.com/lesjames/history-api-demo)| Modify url without reload|
+|[HowlerJs](https://howlerjs.com/)|Audio framework|
