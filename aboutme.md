@@ -16,7 +16,7 @@ Information about me:
 | Goals: | To always find a way to be a better version of myself and learn new things each day. |
 
 
-Links:
+## Links:
 [Download my CV](https://ludvigolausson.se/cv.png)<br>
 [Github](https://github.com/Azaaxin/)<br>
 [LinkedIn](https://www.linkedin.com/in/ludvig-olausson-372b51193/)
