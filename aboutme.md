@@ -4,7 +4,7 @@ Hello my name is Ludvig Olausson, I'm currently studying web development in Stoc
 I have a bunch of projects I work on in my spare time such as producing music, writing code for anything I can find useful or interesting. You might also find me soldering electronics or building guitars.
 
 Information about me:
-|  |  |
+| About | Info |
 |--|--|
 | Country: | Sweden |
 | Language: | English, Swedish |
