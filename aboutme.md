@@ -9,7 +9,7 @@ I have a bunch of projects I work on in my spare time such as producing music, w
 | Country: | Sweden |
 | Language: | English, Swedish |
 | Age: | 22 (born 1998) |
-| City: | Stockholm, Vingåker |<br>
+| City: | Stockholm, Vingåker |
 | Nerdy things I know: | HTML, CSS, JavaScript, Apache2, WordPress, C++, Visual Basic |
 | Things I'm currently learning: | MERN-stack, Asp.net, Angular |
 | Hobbies: | Music Production, Programming |
