@@ -17,6 +17,6 @@ Information about me:
 
 
 Links:
-[Download my CV](https://ludvigolausson.se/cv.png)
-[Github](https://github.com/Azaaxin/)
+[Download my CV](https://ludvigolausson.se/cv.png)<br>
+[Github](https://github.com/Azaaxin/)<br>
 [LinkedIn](https://www.linkedin.com/in/ludvig-olausson-372b51193/)
