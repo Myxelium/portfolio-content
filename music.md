@@ -10,3 +10,4 @@ I do, you can find my music on almost all popular streaming services today!
 ### What are you working on right now?
 I'm currently on a break, but I always have unfinished projects laying around waiting to be finished and released.
 <br><br>
+ Miss spelled 
