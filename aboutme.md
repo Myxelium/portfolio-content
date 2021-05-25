@@ -8,7 +8,7 @@ I have a bunch of projects I work on in my spare time such as producing music, w
 |--|--|
 | Country: | Sweden |
 | Language: | English, Swedish |
-| Age: | 22 (born 1998) |
+| Age: | 23 (born 1998) |
 | Education:| Web developer within E-commerce, Network technology|
 | City: | Stockholm, Vingåker |
 | Nerdy things I know: | HTML, CSS, JavaScript, Apache2, WordPress, C++, Visual Basic |
